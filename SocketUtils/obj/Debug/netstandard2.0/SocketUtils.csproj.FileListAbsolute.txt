@@ -1,0 +1,10 @@
+D:\ProjectHSI\SocketUtils\SocketUtils\bin\Debug\netstandard2.0\SocketUtils.deps.json
+D:\ProjectHSI\SocketUtils\SocketUtils\bin\Debug\netstandard2.0\SocketUtils.dll
+D:\ProjectHSI\SocketUtils\SocketUtils\bin\Debug\netstandard2.0\SocketUtils.pdb
+D:\ProjectHSI\SocketUtils\SocketUtils\obj\Debug\netstandard2.0\SocketUtils.csproj.AssemblyReference.cache
+D:\ProjectHSI\SocketUtils\SocketUtils\obj\Debug\netstandard2.0\SocketUtils.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProjectHSI\SocketUtils\SocketUtils\obj\Debug\netstandard2.0\SocketUtils.AssemblyInfoInputs.cache
+D:\ProjectHSI\SocketUtils\SocketUtils\obj\Debug\netstandard2.0\SocketUtils.AssemblyInfo.cs
+D:\ProjectHSI\SocketUtils\SocketUtils\obj\Debug\netstandard2.0\SocketUtils.csproj.CoreCompileInputs.cache
+D:\ProjectHSI\SocketUtils\SocketUtils\obj\Debug\netstandard2.0\SocketUtils.dll
+D:\ProjectHSI\SocketUtils\SocketUtils\obj\Debug\netstandard2.0\SocketUtils.pdb
